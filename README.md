@@ -1,2 +1,2 @@
-# Só Serviçoes
+# Só Serviços
 Online sales website
